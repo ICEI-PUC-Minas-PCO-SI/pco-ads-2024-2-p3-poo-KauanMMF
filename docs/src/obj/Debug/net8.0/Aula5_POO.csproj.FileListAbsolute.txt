@@ -1,0 +1,14 @@
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\obj\Debug\net8.0\Aula5_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\obj\Debug\net8.0\Aula5_POO.AssemblyInfoInputs.cache
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\obj\Debug\net8.0\Aula5_POO.AssemblyInfo.cs
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\obj\Debug\net8.0\Aula5_POO.csproj.CoreCompileInputs.cache
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\bin\Debug\net8.0\Aula5_POO.exe
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\bin\Debug\net8.0\Aula5_POO.deps.json
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\bin\Debug\net8.0\Aula5_POO.runtimeconfig.json
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\bin\Debug\net8.0\Aula5_POO.dll
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\bin\Debug\net8.0\Aula5_POO.pdb
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\obj\Debug\net8.0\Aula5_POO.dll
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\obj\Debug\net8.0\refint\Aula5_POO.dll
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\obj\Debug\net8.0\Aula5_POO.pdb
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\obj\Debug\net8.0\Aula5_POO.genruntimeconfig.cache
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Aula5_POO\Aula5_POO\obj\Debug\net8.0\ref\Aula5_POO.dll
