@@ -17,7 +17,7 @@ namespace Aula5_POO.com.kauan.veiculos.entidades.carros
 
         public override void mostrar()
         {
-            Console.WriteLine($"Carro Esportivo: {marca} {modelo}, Placa: {placa}, Renavam: {renavam}, Velocidade Máxima: {velocidadeMaxima} km/h, Número de Portas: {nPortas}");
+            Console.WriteLine($"Carro Esportivo: {marca} {modelo}, Placa: {placa}, Renavam: {renavam}, Velocidade Máxima: {velocidadeMaxima} km/h, Número de Portas: {nPortas}, Rodas: {rodas}");
         }
 
         public override void seguroParticular()

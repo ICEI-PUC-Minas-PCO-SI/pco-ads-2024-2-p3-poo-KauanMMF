@@ -8,6 +8,7 @@ namespace Aula5_POO.com.kauan.veiculos.entidades.carros
     {
         public string placa;
         public string renavam;
+        public int rodas = 4;
 
         public Carro(string marca, string modelo, string placa, string renavam) : base(marca, modelo)
         {
@@ -17,7 +18,7 @@ namespace Aula5_POO.com.kauan.veiculos.entidades.carros
 
         public override void mostrar()
         {
-            Console.WriteLine($"Carro: {marca} {modelo}, Placa: {placa}, Renavam: {renavam}");
+            Console.WriteLine($"Carro: {marca} {modelo}, Placa: {placa}, Renavam: {renavam}, Rodas: {rodas}");
         }
 
         public virtual void seguroParticular()
