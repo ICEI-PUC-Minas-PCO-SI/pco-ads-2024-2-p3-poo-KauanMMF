@@ -1,0 +1,16 @@
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\bin\Debug\net8.0-windows\FormasGeometricas.exe
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\bin\Debug\net8.0-windows\FormasGeometricas.deps.json
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\bin\Debug\net8.0-windows\FormasGeometricas.runtimeconfig.json
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\bin\Debug\net8.0-windows\FormasGeometricas.dll
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\bin\Debug\net8.0-windows\FormasGeometricas.pdb
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\obj\Debug\net8.0-windows\FormasGeometricas.Form1.resources
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\obj\Debug\net8.0-windows\FormasGeometricas.csproj.GenerateResource.cache
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\obj\Debug\net8.0-windows\FormasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\obj\Debug\net8.0-windows\FormasGeometricas.AssemblyInfoInputs.cache
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\obj\Debug\net8.0-windows\FormasGeometricas.AssemblyInfo.cs
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\obj\Debug\net8.0-windows\FormasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\obj\Debug\net8.0-windows\FormasGeometricas.dll
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\obj\Debug\net8.0-windows\refint\FormasGeometricas.dll
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\obj\Debug\net8.0-windows\FormasGeometricas.pdb
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\obj\Debug\net8.0-windows\FormasGeometricas.genruntimeconfig.cache
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\FormasGeometricas\FormasGeometricas\obj\Debug\net8.0-windows\ref\FormasGeometricas.dll

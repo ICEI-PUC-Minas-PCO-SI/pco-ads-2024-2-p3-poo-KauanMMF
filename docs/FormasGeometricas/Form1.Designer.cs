@@ -35,83 +35,104 @@
             btnAreaPerimetroRetangulos = new Button();
             btnAreaPerimetroTriangulos = new Button();
             btnCriarTriangulo = new Button();
+            btnApagarFigura = new Button();
             SuspendLayout();
             // 
             // btnCriarQuadrado
             // 
-            btnCriarQuadrado.Location = new Point(92, 98);
+            btnCriarQuadrado.BackColor = SystemColors.Control;
+            btnCriarQuadrado.Location = new Point(78, 91);
             btnCriarQuadrado.Name = "btnCriarQuadrado";
             btnCriarQuadrado.Size = new Size(288, 34);
             btnCriarQuadrado.TabIndex = 1;
             btnCriarQuadrado.Text = "Criar Quadrado";
-            btnCriarQuadrado.UseVisualStyleBackColor = true;
+            btnCriarQuadrado.UseVisualStyleBackColor = false;
             btnCriarQuadrado.Click += btnCriarQuadrado_Click;
             // 
             // btnAbrirArquivo
             // 
-            btnAbrirArquivo.Location = new Point(92, 48);
+            btnAbrirArquivo.BackColor = SystemColors.Control;
+            btnAbrirArquivo.Location = new Point(78, 41);
             btnAbrirArquivo.Name = "btnAbrirArquivo";
             btnAbrirArquivo.Size = new Size(605, 34);
             btnAbrirArquivo.TabIndex = 2;
             btnAbrirArquivo.Text = "Abrir Arquivo";
-            btnAbrirArquivo.UseVisualStyleBackColor = true;
+            btnAbrirArquivo.UseVisualStyleBackColor = false;
             btnAbrirArquivo.Click += btnAbrirArquivo_Click;
             // 
             // btnAreaPerimetroQuadrados
             // 
-            btnAreaPerimetroQuadrados.Location = new Point(409, 98);
+            btnAreaPerimetroQuadrados.BackColor = SystemColors.Control;
+            btnAreaPerimetroQuadrados.Location = new Point(395, 91);
             btnAreaPerimetroQuadrados.Name = "btnAreaPerimetroQuadrados";
             btnAreaPerimetroQuadrados.Size = new Size(288, 34);
             btnAreaPerimetroQuadrados.TabIndex = 3;
             btnAreaPerimetroQuadrados.Text = "Calcular Área e perímetro dos quadrados";
-            btnAreaPerimetroQuadrados.UseVisualStyleBackColor = true;
+            btnAreaPerimetroQuadrados.UseVisualStyleBackColor = false;
             btnAreaPerimetroQuadrados.Click += btnAreaPerimetroQuadrados_Click;
             // 
             // btnCriarRetangulo
             // 
-            btnCriarRetangulo.Location = new Point(92, 138);
+            btnCriarRetangulo.BackColor = SystemColors.Control;
+            btnCriarRetangulo.Location = new Point(78, 131);
             btnCriarRetangulo.Name = "btnCriarRetangulo";
             btnCriarRetangulo.Size = new Size(288, 34);
             btnCriarRetangulo.TabIndex = 4;
             btnCriarRetangulo.Text = "Criar Retângulo";
-            btnCriarRetangulo.UseVisualStyleBackColor = true;
+            btnCriarRetangulo.UseVisualStyleBackColor = false;
             btnCriarRetangulo.Click += btnCriarRetangulo_Click;
             // 
             // btnAreaPerimetroRetangulos
             // 
-            btnAreaPerimetroRetangulos.Location = new Point(409, 138);
+            btnAreaPerimetroRetangulos.BackColor = SystemColors.Control;
+            btnAreaPerimetroRetangulos.Location = new Point(395, 131);
             btnAreaPerimetroRetangulos.Name = "btnAreaPerimetroRetangulos";
             btnAreaPerimetroRetangulos.Size = new Size(288, 34);
             btnAreaPerimetroRetangulos.TabIndex = 5;
             btnAreaPerimetroRetangulos.Text = "Calcular área e perímetro dos retângulos";
-            btnAreaPerimetroRetangulos.UseVisualStyleBackColor = true;
+            btnAreaPerimetroRetangulos.UseVisualStyleBackColor = false;
             btnAreaPerimetroRetangulos.Click += btnAreaPerimetroRetangulos_Click;
             // 
             // btnAreaPerimetroTriangulos
             // 
-            btnAreaPerimetroTriangulos.Location = new Point(409, 178);
+            btnAreaPerimetroTriangulos.BackColor = SystemColors.Control;
+            btnAreaPerimetroTriangulos.Location = new Point(395, 171);
             btnAreaPerimetroTriangulos.Name = "btnAreaPerimetroTriangulos";
             btnAreaPerimetroTriangulos.Size = new Size(288, 34);
             btnAreaPerimetroTriangulos.TabIndex = 7;
             btnAreaPerimetroTriangulos.Text = "Calcular área e perímetro dos triângulos";
-            btnAreaPerimetroTriangulos.UseVisualStyleBackColor = true;
+            btnAreaPerimetroTriangulos.UseVisualStyleBackColor = false;
             btnAreaPerimetroTriangulos.Click += btnAreaPerimetroTriangulos_Click;
             // 
             // btnCriarTriangulo
             // 
-            btnCriarTriangulo.Location = new Point(92, 178);
+            btnCriarTriangulo.BackColor = SystemColors.Control;
+            btnCriarTriangulo.Location = new Point(78, 171);
             btnCriarTriangulo.Name = "btnCriarTriangulo";
             btnCriarTriangulo.Size = new Size(288, 34);
             btnCriarTriangulo.TabIndex = 6;
             btnCriarTriangulo.Text = "Criar Triângulo";
-            btnCriarTriangulo.UseVisualStyleBackColor = true;
+            btnCriarTriangulo.UseVisualStyleBackColor = false;
             btnCriarTriangulo.Click += btnCriarTriangulo_Click;
+            // 
+            // btnApagarFigura
+            // 
+            btnApagarFigura.BackColor = SystemColors.Control;
+            btnApagarFigura.Location = new Point(78, 211);
+            btnApagarFigura.Name = "btnApagarFigura";
+            btnApagarFigura.Size = new Size(605, 34);
+            btnApagarFigura.TabIndex = 8;
+            btnApagarFigura.Text = "Apagar ultíma figura adicionada";
+            btnApagarFigura.UseVisualStyleBackColor = false;
+            btnApagarFigura.Click += btnApagarFigura_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            BackColor = Color.PaleTurquoise;
+            ClientSize = new Size(770, 450);
+            Controls.Add(btnApagarFigura);
             Controls.Add(btnAreaPerimetroTriangulos);
             Controls.Add(btnCriarTriangulo);
             Controls.Add(btnAreaPerimetroRetangulos);
@@ -132,5 +153,6 @@
         private Button btnAreaPerimetroRetangulos;
         private Button btnAreaPerimetroTriangulos;
         private Button btnCriarTriangulo;
+        private Button btnApagarFigura;
     }
 }

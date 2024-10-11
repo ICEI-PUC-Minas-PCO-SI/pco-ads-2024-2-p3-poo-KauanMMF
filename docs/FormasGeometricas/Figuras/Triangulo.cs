@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FigurasGeometricas.Figuras
+namespace FormasGeometricas.Figuras
 {
     internal class Triangulo : Figura
     {
