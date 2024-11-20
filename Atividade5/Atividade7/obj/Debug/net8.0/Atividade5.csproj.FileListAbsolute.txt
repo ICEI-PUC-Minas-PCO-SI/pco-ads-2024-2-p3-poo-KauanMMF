@@ -1,0 +1,28 @@
+C:\Users\1494093\source\repos\Atividade5\Atividade5\bin\Debug\net8.0\Atividade5.exe
+C:\Users\1494093\source\repos\Atividade5\Atividade5\bin\Debug\net8.0\Atividade5.deps.json
+C:\Users\1494093\source\repos\Atividade5\Atividade5\bin\Debug\net8.0\Atividade5.runtimeconfig.json
+C:\Users\1494093\source\repos\Atividade5\Atividade5\bin\Debug\net8.0\Atividade5.dll
+C:\Users\1494093\source\repos\Atividade5\Atividade5\bin\Debug\net8.0\Atividade5.pdb
+C:\Users\1494093\source\repos\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1494093\source\repos\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.AssemblyInfoInputs.cache
+C:\Users\1494093\source\repos\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.AssemblyInfo.cs
+C:\Users\1494093\source\repos\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.csproj.CoreCompileInputs.cache
+C:\Users\1494093\source\repos\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.dll
+C:\Users\1494093\source\repos\Atividade5\Atividade5\obj\Debug\net8.0\refint\Atividade5.dll
+C:\Users\1494093\source\repos\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.pdb
+C:\Users\1494093\source\repos\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.genruntimeconfig.cache
+C:\Users\1494093\source\repos\Atividade5\Atividade5\obj\Debug\net8.0\ref\Atividade5.dll
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\bin\Debug\net8.0\Atividade5.exe
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\bin\Debug\net8.0\Atividade5.deps.json
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\bin\Debug\net8.0\Atividade5.runtimeconfig.json
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\bin\Debug\net8.0\Atividade5.dll
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\bin\Debug\net8.0\Atividade5.pdb
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.AssemblyInfoInputs.cache
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.AssemblyInfo.cs
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.csproj.CoreCompileInputs.cache
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.dll
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\obj\Debug\net8.0\refint\Atividade5.dll
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.pdb
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\obj\Debug\net8.0\Atividade5.genruntimeconfig.cache
+C:\Users\smf19\OneDrive\Documentos\Faculdade Kauan\POO\Atividade5\Atividade5\obj\Debug\net8.0\ref\Atividade5.dll
